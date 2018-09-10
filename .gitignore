@@ -1,0 +1,8 @@
+# Se ignoran archivos del intelliJ
+.idea
+build
+classes
+main.iml
+
+# Se ingnoran los class.
+*.class
